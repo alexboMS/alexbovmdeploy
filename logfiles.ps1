@@ -1,0 +1,1 @@
+﻿New-Item -Path "c:\logfiles" -Name "logfiles2" -ItemType "directory"
